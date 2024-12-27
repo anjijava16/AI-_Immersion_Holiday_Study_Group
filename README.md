@@ -1,7 +1,7 @@
 # AI-_Immersion_Holiday_Study_Group
 AI Study Group (Virtual) - AI Immersion
 
-## week1 :
+## week-1 :
 Dec 27~Jan 4: AI Immersion: A Developer's Holiday Study Guide. RSVP->
 
 # Week-2

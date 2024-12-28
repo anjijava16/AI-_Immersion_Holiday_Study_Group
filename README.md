@@ -1,4 +1,8 @@
 # AI-_Immersion_Holiday_Study_Group
+
+https://github.com/aicampg/aisg-5-day-aiimmersion/tree/main
+
+
 AI Study Group (Virtual) - AI Immersion
 
 ## week-1 :

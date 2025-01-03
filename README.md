@@ -2,6 +2,9 @@
 
 https://github.com/aicampg/aisg-5-day-aiimmersion/tree/main
 
+https://github.com/towardsai/ragbook-notebooks/tree/main
+
+
 
 AI Study Group (Virtual) - AI Immersion
 

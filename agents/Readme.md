@@ -7,3 +7,6 @@ https://www.galileo.ai/blog/evaluate-langgraph-agent-for-finance-research
 
 
 https://github.com/towardsai/ragbook-notebooks/tree/main
+
+
+https://github.com/aicampg/aisg-5-day-ai-agent/tree/main/day0

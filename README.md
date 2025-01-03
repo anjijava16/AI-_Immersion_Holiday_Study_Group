@@ -2,6 +2,7 @@
 
 https://github.com/aicampg/aisg-5-day-aiimmersion/tree/main
 
+# RAG :
 https://github.com/towardsai/ragbook-notebooks/tree/main
 
 
@@ -10,9 +11,12 @@ AI Study Group (Virtual) - AI Immersion
 
 ## week-1 :
 Dec 27~Jan 4: AI Immersion: A Developer's Holiday Study Guide. RSVP->
+https://github.com/aicampg/aisg-5-day-aiimmersion/tree/main
+
 
 # Week-2
 Jan 1~Jan 5: 5-Day Challenge for Agentic AI. RSVP->
+https://github.com/aicampg/aisg-5-day-ai-agent/tree/main/day0
 
 # Week-3
 Jan 6~Jan 13: 7-Day Challenge for Building LLMs Applications. RSVP->
